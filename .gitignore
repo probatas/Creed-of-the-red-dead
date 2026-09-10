@@ -1,0 +1,6 @@
+# Never commit source or derived Game Boy Advance ROM images.
+*.gba
+
+# Emulator save-state and battery-save files.
+*.sav
+*.sgm
